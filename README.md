@@ -29,9 +29,9 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 
 ### Option One: CrystalsCollector Game (Recommended)
 
-![Crystal Collector](Images/1-CrystalCollector.jpg)
+![Crystal Collector](assets/images/1-CrystalCollector.jpg)
 
-1. [Watch the demo](homework_demos/crystalsCollector_demo.mp4).
+1. [Watch the demo](assets/media/crystalsCollector_demo.mp4).
 
 2. The player will have to guess the answer, just like in Hangman. This time, though, the player will guess with numbers instead of letters. 
 
@@ -64,9 +64,9 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 
 ### Option Two: Star Wars RPG Game (Challenge)
 
-![Star Wars](Images/2-StarWars.jpg)
+![Star Wars](assets/images/2-StarWars.jpg)
 
-1. [Watch the demo](homework_demos/starwars_demo.mp4).
+1. [Watch the demo](assets/media/starwars_demo.mp4).
 
 2. Here's how the app works:
 
