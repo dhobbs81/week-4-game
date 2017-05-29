@@ -8,32 +8,33 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
     <title>Starter Template</title>
 
-    <!-- Custom styles for hangman -->
+    <!--
     <link href="assets/css/reset.css" rel="stylesheet">
+    -->
     <link href="assets/css/style.css" rel="stylesheet">
 
   </head>
 
   <body>
-
-    <div class="container">
-
-        <h1>starter template</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
-
-    </div><!-- /.container -->
-
+    <!-- The content for the main container division is programmatically generated -->
+    <div class="maincontainer"></div><!-- /.maincontainer -->
 
     <!-- 
-        Load Game Scripts
-    ================================================== 
-        Placed at the end of the document so the pages load faster 
-   -->
+          Load Game Scripts
+      ================================================== 
+          Placed at the end of the document so the pages load faster 
+    -->
+    <!-- Included minimized latest stable release from jQuery CDN -->
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"></script> 
     <script src="assets/javascript/game.js"></script>
   </body>
 </html>
+    
